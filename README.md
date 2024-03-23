@@ -1,2 +1,3 @@
 # awesome-ps-on-win
-Automated powershell scripts on my Win10
+
+Power shell automation scripts with Task Scheduler on my Win10.
